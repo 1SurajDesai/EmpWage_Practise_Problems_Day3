@@ -9,8 +9,8 @@ namespace EmployeeWageProgram
             //EmployeeCheck.EmployeeAbsentOrPresent();
             //EmpyeeWage.CalculateEmpWage();
             //PartTimeEmpWage.CalEmpWage();
-            WageUsingSwitchCase.CalWageSwitchCase();
-            //WageForMonth.CalWageOfMonth();
+            //WageUsingSwitchCase.CalWageSwitchCase();
+            WageForMonth.CalWageOfMonth();
             //CalWageTillCondMeet.CalWage();
 
         }
