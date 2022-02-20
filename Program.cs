@@ -6,8 +6,8 @@ namespace EmployeeWageProgram
         public static void Main(string[] arg)
         {
             //Console.WriteLine("Welcome to Employee Wage Computation Program ");
-            EmployeeCheck.EmployeeAbsentOrPresent();
-            //EmpyeeWage.CalculateEmpWage();
+            //EmployeeCheck.EmployeeAbsentOrPresent();
+            EmpyeeWage.CalculateEmpWage();
             //PartTimeEmpWage.CalEmpWage();
             //WageUsingSwitchCase.CalWageSwitchCase();
             //WageForMonth.CalWageOfMonth();
